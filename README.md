@@ -1,4 +1,4 @@
-# LoanWise - Credit Risk Assessment Platform
+# Loan Wise - Credit Risk Assessment Platform
 
 LoanWise is a full-stack web application that enables financial institutions to predict loan default probabilities using machine learning models. The platform provides an intuitive interface for loan officers to input borrower data and receive real-time risk assessments.
 
